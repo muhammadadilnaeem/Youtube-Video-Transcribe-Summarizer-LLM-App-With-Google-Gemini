@@ -61,7 +61,7 @@ We welcome contributions! Please fork this repository, create a new branch, and 
 
 ## **📄 License**
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/muhammadadilnaeem/Youtube-Video-Transcribe-Summarizer-LLM-App-With-Google-Gemini/blob/main/LICENSE) file for details.
 
 ## **📧 Contact**
 
