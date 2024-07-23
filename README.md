@@ -9,7 +9,7 @@ Welcome to the **YouTube Video Transcribe Summarizer LLM App with Google Gemini*
 
 This project utilizes Google Gemini for generating accurate transcriptions and concise summaries of YouTube videos. It's designed to save users time by providing them with the essence of video content without the need to watch the entire video.
 
-https://github.com/user-attachments/assets/f1993081-ac90-4899-a031-74be846b781e
+https://github.com/user-attachments/assets/a8fefaa3-ff2a-4364-89e1-b06779b410b6
 
 ## **🛠️ Features**
 
